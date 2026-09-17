@@ -2,7 +2,7 @@
 
 # 👋 Salut, moi c’est **Ki Das**
 
-### 🇳🇪 Développeur • Créateur • Passionné de technologie
+### 🇳🇪 Vibe Coder • Créateur • Passionné de technologie
 
 <img src="https://avatars.githubusercontent.com/u/321551555?v=4" width="160" alt="Ki Das" />
 
@@ -10,7 +10,9 @@
 
 **Bienvenue sur mon profil GitHub !** 🚀
 
-Je crée des applications, des expériences web et des projets logiciels avec l’objectif de transformer des idées en projets concrets.
+Je transforme mes idées en projets concrets avec une approche de **Vibe Coding** : créer, tester, améliorer et donner vie aux idées rapidement.
+
+🌐 **Portfolio :** [kidas-portfolio.web.app](https://kidas-portfolio.web.app)
 
 </div>
 
@@ -18,14 +20,14 @@ Je crée des applications, des expériences web et des projets logiciels avec l�
 
 ## 🧑‍💻 À propos de moi
 
-- 🇳🇪 Basé au Niger
-- 💻 Développement d’applications et de logiciels
-- 📱 Projets Android
+- 🇳🇪 Niger
+- 💻 Vibe Coding & création de projets numériques
+- 📱 Applications Android
 - 🪟 Applications Windows
 - 🌐 Développement Web
 - 🎮 Développement de jeux vidéo
 - ⚙️ GitHub & GitHub Actions / CI-CD
-- 🤖 Intérêt pour l’IA et les nouvelles technologies
+- 🤖 IA & nouvelles technologies
 
 ---
 
@@ -48,19 +50,13 @@ Je crée des applications, des expériences web et des projets logiciels avec l�
 
 ---
 
-## 🚀 Mes projets
+## 🌐 Mon portfolio
 
-### 🎵 MusicPro1
-Application orientée musique et expérience multimédia.
-
-### 🎨 Studio-Pro
-Projet logiciel autour de la création et des outils numériques.
-
-### 🏠 The Hub
-Projet d’application Android en développement.
-
-### 🎮 FPS
-Projet de jeu vidéo avec une orientation Android.
+<p align="center">
+  <a href="https://kidas-portfolio.web.app">
+    <img src="https://img.shields.io/badge/Visiter%20mon%20portfolio-kidas--portfolio.web.app-181717?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio de Ki Das" />
+  </a>
+</p>
 
 ---
 
@@ -92,7 +88,7 @@ Projet de jeu vidéo avec une orientation Android.
 
 ## 💬 Une petite phrase
 
-> **« Les grandes idées commencent souvent par un simple projet. »** 🚀
+> **« Les idées prennent vie quand on commence à les construire. »** 🚀
 
 ---
 
@@ -100,6 +96,6 @@ Projet de jeu vidéo avec une orientation Android.
 
 ### 🇳🇪 Ki Das
 
-**Code • Create • Build • Repeat** 💻🔥
+**Vibe Code • Create • Build • Repeat** 💻🔥
 
 </div>
